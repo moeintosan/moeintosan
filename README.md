@@ -1,6 +1,6 @@
-# Hi there, I'm Moein! 👋
-
 <img width="1536" height="1024" alt="bedf7cce-2dca-4dc9-9c3b-15ddff6c618e" src="https://github.com/user-attachments/assets/1abb585d-d0b3-4bd3-9eb2-e892b7118f15" />
+
+# Hi there, I'm Moein! 👋
 
 I am a researcher specializing in **Physical Hydrology, Climate Science, and GeoXAI**. My work bridges the gap between deep learning and environmental dynamics, with a strong focus on building transparent, physical-aware AI models for water resource management.
 
