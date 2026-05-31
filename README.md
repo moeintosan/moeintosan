@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="bedf7cce-2dca-4dc9-9c3b-15ddff6c618e" src="https://github.com/user-attachments/assets/1abb585d-d0b3-4bd3-9eb2-e892b7118f15" />
+<img width="1536" height="1024" alt="546" src="https://github.com/user-attachments/assets/f029e03f-0bfb-440e-b946-6f78c1c624aa" />
 
 # Hi there, I'm Moein! 👋
 
