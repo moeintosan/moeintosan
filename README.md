@@ -10,7 +10,9 @@ I am a researcher specializing in **Physical Hydrology, Climate Science, and Geo
 *   **Digital Soil Mapping & Hydroinformatics:** Currently lead-authoring a book chapter on digital innovations and ecosystem dynamics for Elsevier.
 
 ### 📈 Academic Impact
-*   **Reviewer:** *Journal of Hydrology (Top 1%), Scientific Reports, Water Resources Management*.
+*   **Reviewer:** *Journal of Hydrology (Top 1%), Water Resources Management, Scientific Reports*.
 *   **Publications:** High-impact Q1 journals including *Earth-Science Reviews* and *Atmospheric Research*.
+
+<img width="1536" height="1024" alt="bedf7cce-2dca-4dc9-9c3b-15ddff6c618e" src="https://github.com/user-attachments/assets/e8b8bade-db0f-499a-ba05-73fe7b0aeaed" />
 
 📫 **Reach me at:** moein.tosan@gmail.com
